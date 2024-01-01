@@ -23,7 +23,7 @@
 
 - 📄 Know about my experiences [https://yasindce1998.github.io/](https://yasindce1998.github.io/)
 
-- ⚡ Fun fact **We are all living in illusion of the delusion.**
+- ⚡ Fun fact **We are all living in the illusion of the delusion.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
