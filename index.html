@@ -4,73 +4,429 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Mohammed Yasin - Cyber Security Researcher</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <style>
-        body {
-            font-family: Arial, sans-serif;
+        * {
             margin: 0;
             padding: 0;
-            background-color: #f0f0f0;
+            box-sizing: border-box;
         }
-        .header {
-            background-color: #007bff;
-            color: white;
-            text-align: center;
-            padding: 2rem;
+
+        :root {
+            --primary-color: #2563eb;
+            --secondary-color: #1e40af;
+            --text-dark: #1f2937;
+            --text-light: #6b7280;
+            --bg-light: #f9fafb;
+            --white: #ffffff;
+            --shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+            --shadow-lg: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
         }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            line-height: 1.6;
+            color: var(--text-dark);
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+        }
+
         .container {
-            max-width: 800px;
+            max-width: 1200px;
             margin: 0 auto;
             padding: 2rem;
-            background-color: white;
-            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
-            border-radius: 5px;
         }
-        .profile {
-            font-size: 1.2rem;
+
+        /* Header Section */
+        .hero {
+            text-align: center;
+            padding: 4rem 2rem;
+            color: var(--white);
+            animation: fadeInDown 1s ease-out;
+        }
+
+        .hero h1 {
+            font-size: 3rem;
+            font-weight: 700;
             margin-bottom: 1rem;
+            text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
         }
-        .project-list {
-            list-style-type: none;
-            padding: 0;
+
+        .hero .wave {
+            display: inline-block;
+            animation: wave 2s infinite;
         }
-        .project-list li {
-            margin-bottom: 0.5rem;
+
+        .hero p {
+            font-size: 1.5rem;
+            margin-bottom: 2rem;
+            opacity: 0.95;
         }
-        .contact {
+
+        .hero .subtitle {
+            font-size: 1.1rem;
+            opacity: 0.9;
+            max-width: 600px;
+            margin: 0 auto;
+        }
+
+        /* Main Content Card */
+        .content-card {
+            background: var(--white);
+            border-radius: 20px;
+            box-shadow: var(--shadow-lg);
+            padding: 3rem;
             margin-top: 2rem;
+            animation: fadeInUp 1s ease-out;
+        }
+
+        /* Section Styling */
+        .section {
+            margin-bottom: 3rem;
+        }
+
+        .section:last-child {
+            margin-bottom: 0;
+        }
+
+        .section-title {
+            font-size: 1.8rem;
+            color: var(--primary-color);
+            margin-bottom: 1.5rem;
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+        }
+
+        .section-title i {
+            font-size: 1.5rem;
+        }
+
+        /* About Section */
+        .about-text {
+            color: var(--text-light);
+            font-size: 1.1rem;
+            line-height: 1.8;
+        }
+
+        /* Social Links */
+        .social-links {
+            display: flex;
+            gap: 1rem;
+            flex-wrap: wrap;
+            margin-top: 1rem;
+        }
+
+        .social-link {
+            display: inline-flex;
+            align-items: center;
+            gap: 0.5rem;
+            padding: 0.75rem 1.5rem;
+            background: var(--bg-light);
+            border-radius: 50px;
+            text-decoration: none;
+            color: var(--text-dark);
+            transition: all 0.3s ease;
+            border: 2px solid transparent;
+        }
+
+        .social-link:hover {
+            background: var(--primary-color);
+            color: var(--white);
+            transform: translateY(-2px);
+            box-shadow: var(--shadow);
+        }
+
+        .social-link i {
+            font-size: 1.2rem;
+        }
+
+        /* Skills Section */
+        .skills-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));
+            gap: 1rem;
+            margin-top: 1rem;
+        }
+
+        .skill-item {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            padding: 1.5rem 1rem;
+            background: var(--bg-light);
+            border-radius: 12px;
+            transition: all 0.3s ease;
+            cursor: default;
+            border: 2px solid transparent;
+        }
+
+        .skill-item:hover {
+            transform: translateY(-5px);
+            box-shadow: var(--shadow);
+            border-color: var(--primary-color);
+            background: var(--white);
+        }
+
+        .skill-item i {
+            font-size: 2.5rem;
+            margin-bottom: 0.5rem;
+            color: var(--primary-color);
+        }
+
+        .skill-item span {
+            font-size: 0.9rem;
+            color: var(--text-dark);
+            font-weight: 500;
             text-align: center;
         }
+
+        /* Current Focus */
+        .focus-list {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 0.75rem;
+            margin-top: 1rem;
+        }
+
+        .focus-tag {
+            padding: 0.5rem 1rem;
+            background: linear-gradient(135deg, var(--primary-color), var(--secondary-color));
+            color: var(--white);
+            border-radius: 20px;
+            font-size: 0.95rem;
+            font-weight: 500;
+            box-shadow: var(--shadow);
+        }
+
+        /* Footer */
+        .footer {
+            text-align: center;
+            padding: 2rem;
+            color: var(--white);
+            margin-top: 2rem;
+        }
+
+        .footer p {
+            opacity: 0.9;
+        }
+
+        /* Animations */
+        @keyframes fadeInDown {
+            from {
+                opacity: 0;
+                transform: translateY(-30px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        @keyframes fadeInUp {
+            from {
+                opacity: 0;
+                transform: translateY(30px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        @keyframes wave {
+            0%, 100% { transform: rotate(0deg); }
+            25% { transform: rotate(20deg); }
+            75% { transform: rotate(-15deg); }
+        }
+
+        /* Responsive Design */
+        @media (max-width: 768px) {
+            .hero h1 {
+                font-size: 2rem;
+            }
+
+            .hero p {
+                font-size: 1.2rem;
+            }
+
+            .content-card {
+                padding: 2rem 1.5rem;
+            }
+
+            .section-title {
+                font-size: 1.5rem;
+            }
+
+            .skills-grid {
+                grid-template-columns: repeat(auto-fill, minmax(100px, 1fr));
+            }
+
+            .social-links {
+                flex-direction: column;
+            }
+
+            .social-link {
+                width: 100%;
+                justify-content: center;
+            }
+        }
+
+        /* Scroll Animation */
+        .fade-in {
+            opacity: 0;
+            animation: fadeInUp 0.8s ease-out forwards;
+        }
+
+        .fade-in:nth-child(1) { animation-delay: 0.1s; }
+        .fade-in:nth-child(2) { animation-delay: 0.2s; }
+        .fade-in:nth-child(3) { animation-delay: 0.3s; }
+        .fade-in:nth-child(4) { animation-delay: 0.4s; }
     </style>
 </head>
 <body>
-    <div class="header">
-        <h1>Hi 👋, I'm Mohammed Yasin</h1>
-        <p>A Passionate Cyber Security Researcher from India</p>
+    <!-- Hero Section -->
+    <div class="hero">
+        <h1>Hi <span class="wave">👋</span>, I'm Mohammed Yasin</h1>
+        <p>Cyber Security Researcher</p>
+        <p class="subtitle">Passionate about securing cloud-native applications and exploring cutting-edge security technologies</p>
     </div>
+
+    <!-- Main Content -->
     <div class="container">
-        <div class="profile">
-            <h2>About Me</h2>
-            <p>
-                I'm a passionate Cyber Security Researcher based in India. Currently, I'm working on KubeArmor and learning technologies like Go, DevSecOps, Python, Rust, and eBPF. I'm also interested in collaborating on Cilium and seeking help with eBPF.
-            </p>
-        </div>
-        <div class="profile">
-            <h2>Connect with Me</h2>
-            <ul class="project-list">
-                <li>GitHub: <a href="https://github.com/yasindce1998">yasindce1998</a></li>
-                <li>Email: <a href="mailto:yasindce1998@gmail.com">yasindce1998@gmail.com</a></li>
-                <li>Website: <a href="https://yasindce1998.github.io/">Know about my experiences</a></li>
-            </ul>
-        </div>
-        <div class="profile">
-            <h2>Languages and Tools</h2>
-            <p>
-                bash, blender, c, cassandra, css3, cypress, django, docker, elasticsearch, figma, gcp, git, go, grafana, html5, java, kubernetes, linux, mysql, nginx, python, rust, selenium, tensorflow
-            </p>
+        <div class="content-card">
+            <!-- About Section -->
+            <div class="section fade-in">
+                <h2 class="section-title">
+                    <i class="fas fa-user"></i>
+                    About Me
+                </h2>
+                <p class="about-text">
+                    I'm a passionate Cyber Security Researcher based in India, specializing in cloud-native security and runtime protection. 
+                    Currently working on <strong>KubeArmor</strong> and actively contributing to the security ecosystem. 
+                    I'm deeply interested in eBPF, container security, and DevSecOps practices.
+                </p>
+            </div>
+
+            <!-- Current Focus -->
+            <div class="section fade-in">
+                <h2 class="section-title">
+                    <i class="fas fa-rocket"></i>
+                    Currently Working On
+                </h2>
+                <div class="focus-list">
+                    <span class="focus-tag">🛡️ KubeArmor</span>
+                    <span class="focus-tag">🔧 eBPF</span>
+                    <span class="focus-tag">🐹 Go</span>
+                    <span class="focus-tag">🦀 Rust</span>
+                    <span class="focus-tag">🐍 Python</span>
+                    <span class="focus-tag">🔐 DevSecOps</span>
+                    <span class="focus-tag">🌐 Cilium</span>
+                </div>
+            </div>
+
+            <!-- Connect Section -->
+            <div class="section fade-in">
+                <h2 class="section-title">
+                    <i class="fas fa-link"></i>
+                    Connect With Me
+                </h2>
+                <div class="social-links">
+                    <a href="https://github.com/yasindce1998" target="_blank" class="social-link">
+                        <i class="fab fa-github"></i>
+                        <span>GitHub</span>
+                    </a>
+                    <a href="mailto:yasindce1998@gmail.com" class="social-link">
+                        <i class="fas fa-envelope"></i>
+                        <span>Email</span>
+                    </a>
+                    <a href="https://yasindce1998.github.io/" target="_blank" class="social-link">
+                        <i class="fas fa-globe"></i>
+                        <span>Portfolio</span>
+                    </a>
+                </div>
+            </div>
+
+            <!-- Skills Section -->
+            <div class="section fade-in">
+                <h2 class="section-title">
+                    <i class="fas fa-code"></i>
+                    Technologies & Tools
+                </h2>
+                <div class="skills-grid">
+                    <div class="skill-item">
+                        <i class="fab fa-python"></i>
+                        <span>Python</span>
+                    </div>
+                    <div class="skill-item">
+                        <i class="fab fa-golang"></i>
+                        <span>Go</span>
+                    </div>
+                    <div class="skill-item">
+                        <i class="fab fa-rust"></i>
+                        <span>Rust</span>
+                    </div>
+                    <div class="skill-item">
+                        <i class="fab fa-docker"></i>
+                        <span>Docker</span>
+                    </div>
+                    <div class="skill-item">
+                        <i class="fas fa-dharmachakra"></i>
+                        <span>Kubernetes</span>
+                    </div>
+                    <div class="skill-item">
+                        <i class="fab fa-linux"></i>
+                        <span>Linux</span>
+                    </div>
+                    <div class="skill-item">
+                        <i class="fab fa-git-alt"></i>
+                        <span>Git</span>
+                    </div>
+                    <div class="skill-item">
+                        <i class="fab fa-java"></i>
+                        <span>Java</span>
+                    </div>
+                    <div class="skill-item">
+                        <i class="fab fa-html5"></i>
+                        <span>HTML5</span>
+                    </div>
+                    <div class="skill-item">
+                        <i class="fab fa-css3-alt"></i>
+                        <span>CSS3</span>
+                    </div>
+                    <div class="skill-item">
+                        <i class="fas fa-database"></i>
+                        <span>MySQL</span>
+                    </div>
+                    <div class="skill-item">
+                        <i class="fab fa-google"></i>
+                        <span>GCP</span>
+                    </div>
+                    <div class="skill-item">
+                        <i class="fab fa-nginx"></i>
+                        <span>Nginx</span>
+                    </div>
+                    <div class="skill-item">
+                        <i class="fas fa-chart-line"></i>
+                        <span>Grafana</span>
+                    </div>
+                    <div class="skill-item">
+                        <i class="fas fa-search"></i>
+                        <span>Elasticsearch</span>
+                    </div>
+                    <div class="skill-item">
+                        <i class="fas fa-terminal"></i>
+                        <span>Bash</span>
+                    </div>
+                </div>
+            </div>
         </div>
     </div>
-    <div class="contact">
-        <p>Connect with me: yasindce1998</p>
+
+    <!-- Footer -->
+    <div class="footer">
+        <p>© 2026 Mohammed Yasin | Cyber Security Researcher</p>
     </div>
 </body>
 </html>
