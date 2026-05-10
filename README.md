@@ -1,45 +1,188 @@
-<h1 align="center">Hi 👋, I'm Mohammed Yasin</h1>
-<h3 align="center">A Senior Software Developer from India</h3>
+<div align="center">
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=yasindce1998&label=Profile%20views&color=0e75b6&style=flat" alt="yasindce1998" /> </p>
+# 👋 Hi, I'm Mohammed Yasin
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yasindce1998" alt="yasindce1998" /></a> </p>
+### 🛡️ Cyber Security Researcher | Cloud-Native Security Enthusiast
 
-<p align="center"> <a href="https://twitter.com/yasindce1998" target="blank"><img src="https://img.shields.io/twitter/follow/yasindce1998?logo=twitter&style=for-the-badge" alt="yasindce1998" /></a> </p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Securing+Cloud-Native+Applications;eBPF+%7C+Container+Security;Runtime+Protection+Specialist;Open+Source+Contributor" alt="Typing SVG" />
 
-- 🔭 I’m currently working on [KubeArmor](https://github.com/kubearmor/KubeArmor)
+[![Profile Views](https://komarev.com/ghpvc/?username=yasindce1998&label=Profile%20Views&color=6366f1&style=for-the-badge)](https://github.com/yasindce1998)
+[![GitHub followers](https://img.shields.io/github/followers/yasindce1998?label=Followers&style=for-the-badge&color=8b5cf6)](https://github.com/yasindce1998?tab=followers)
+[![GitHub Stars](https://img.shields.io/github/stars/yasindce1998?label=Stars&style=for-the-badge&color=ec4899)](https://github.com/yasindce1998?tab=repositories)
 
-- 🌱 I’m currently learning **Go, DevSecOps, Python, Rust, eBPF**
+</div>
 
-- 👯 I’m looking to collaborate on [Cilium](https://github.com/cilium/cilium)
+---
 
-- 🤝 I’m looking for help with [eBPF](https://github.com/cilium/ebpf)
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
-- 👨‍💻 All of my projects are available at [https://github.com/yasindce1998](https://github.com/yasindce1998)
+### 🚀 About Me
 
-- 💬 Ask me about **Kubernetes, Docker, Linux, eBPF**
+```yaml
+name: Mohammed Yasin
+role: Cyber Security Researcher
+location: India 🇮🇳
+focus:
+  - Cloud-Native Security
+  - Runtime Protection
+  - eBPF Technology
+  - Container Security
+currently_working_on: KubeArmor
+learning: [Go, Rust, eBPF, DevSecOps]
+collaboration: Open to security projects
+motto: "Building secure cloud-native solutions, one line of code at a time"
+```
 
-- 📫 How to reach me **yasindce1998@gmail.com**
+<br clear="right"/>
 
-- 📄 Know about my experiences [https://yasindce1998.github.io/](https://yasindce1998.github.io/)
+---
 
-- ⚡ Fun fact **We are all living in the illusion of the delusion.**
+### 🔭 Current Focus
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/yasindce1998" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="yasindce1998" height="30" width="40" /></a>
-<a href="https://twitter.com/yasindce1998" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yasindce1998" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mohammed-yasin-4660b9206" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammed-yasin-4660b9206" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/yasindce1998" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="yasindce1998" height="30" width="40" /></a>
-<a href="https://kaggle.com/yasindce1998" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="yasindce1998" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/yasindce1998" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yasindce1998" height="30" width="40" /></a>
-</p>
+<table>
+<tr>
+<td width="50%">
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+#### 🛡️ Active Projects
+- 🔥 **[KubeArmor](https://github.com/kubearmor/KubeArmor)** - Runtime Security Enforcement
+- 🌐 **[Cilium](https://github.com/cilium/cilium)** - eBPF-based Networking
+- 🔧 **eBPF Research** - Low-level kernel programming
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yasindce1998&show_icons=true&locale=en&layout=compact" alt="yasindce1998" /></p>
+</td>
+<td width="50%">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yasindce1998&show_icons=true&locale=en" alt="yasindce1998" /></p>
+#### 📚 Learning Path
+- 🐹 **Go** - Cloud-native development
+- 🦀 **Rust** - Systems programming
+- 🔐 **DevSecOps** - Security automation
+- 🐍 **Python** - Security tooling
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yasindce1998&" alt="yasindce1998" /></p>
+</td>
+</tr>
+</table>
+
+---
+
+### 💻 Tech Stack
+
+<div align="center">
+
+#### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-CE422B?style=for-the-badge&logo=rust&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+#### Cloud & DevOps
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+
+#### Security & Monitoring
+![eBPF](https://img.shields.io/badge/eBPF-FF6600?style=for-the-badge&logo=ebpf&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+
+#### Tools & Frameworks
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+
+</div>
+
+---
+
+### 📊 GitHub Statistics
+
+<div align="center">
+  
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yasindce1998&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=8b5cf6&text_color=c9d1d9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasindce1998&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9"/>
+
+</div>
+
+<div align="center">
+  
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yasindce1998&theme=tokyonight&hide_border=true&background=0d1117&ring=6366f1&fire=ec4899&currStreakLabel=8b5cf6" alt="GitHub Streak"/>
+
+</div>
+
+<div align="center">
+  
+<img src="https://github-profile-trophy.vercel.app/?username=yasindce1998&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+
+</div>
+
+---
+
+### 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yasindce1998&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=6366f1&line=8b5cf6&point=ec4899" alt="Contribution Graph"/>
+</div>
+
+---
+
+### 🌐 Connect With Me
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yasindce1998.github.io/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yasindce1998@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammed-yasin-4660b9206)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yasindce1998)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/yasindce1998)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/yasindce1998)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/yasindce1998)
+[![CodePen](https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/yasindce1998)
+
+</div>
+
+---
+
+### 💡 Random Dev Quote
+
+<div align="center">
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+---
+
+### 🎯 Fun Fact
+
+<div align="center">
+
+```
+⚡ "We are all living in the illusion of the delusion."
+```
+
+</div>
+
+---
+
+<div align="center">
+
+### 🤝 Open for Collaboration
+
+I'm always interested in working on innovative security projects, especially those involving:
+- 🔐 Cloud-native security solutions
+- 🛡️ Runtime protection mechanisms
+- 🔧 eBPF-based security tools
+- 🌐 Container and Kubernetes security
+
+**Feel free to reach out if you want to collaborate!**
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontColor=fff&animation=twinkling" width="100%"/>
+
+**⭐ Star my repositories if you find them interesting!**
+
+</div>
