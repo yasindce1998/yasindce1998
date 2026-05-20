@@ -33,8 +33,8 @@ const yasin = {
 
 | Project | Description | Area |
 |:--------|:------------|:-----|
-| [**KubeArmor**](https://github.com/kubearmor/KubeArmor) | Runtime security enforcement for Kubernetes | `runtime-security` |
-| [**Cilium**](https://github.com/cilium/cilium) | eBPF-based networking, observability & security | `ebpf` `networking` |
+| [**Warmor**](https://github.com/yasindce1998/Warmor) | WASM based security | `runtime-security` |
+| [**aegis-shadow**](https://github.com/yasindce1998/aegis-shadow) | eBPF-based rootkit, offense & defense | `ebpf` `security` |
 | **eBPF Research** | Low-level kernel security instrumentation | `kernel` `research` |
 
 <br/>
@@ -48,7 +48,6 @@ const yasin = {
 ![Go](https://img.shields.io/badge/Go-292D3E?style=flat-square&logo=go&logoColor=80CBC4)
 ![Rust](https://img.shields.io/badge/Rust-292D3E?style=flat-square&logo=rust&logoColor=F78C6C)
 ![C](https://img.shields.io/badge/C-292D3E?style=flat-square&logo=c&logoColor=89DDFF)
-![Java](https://img.shields.io/badge/Java-292D3E?style=flat-square&logo=openjdk&logoColor=FF5370)
 ![Bash](https://img.shields.io/badge/Bash-292D3E?style=flat-square&logo=gnu-bash&logoColor=C3E88D)
 
 #### Cloud & Infrastructure
@@ -61,13 +60,10 @@ const yasin = {
 #### Security & Observability
 ![eBPF](https://img.shields.io/badge/eBPF-292D3E?style=flat-square&logo=ebpf&logoColor=F78C6C)
 ![Grafana](https://img.shields.io/badge/Grafana-292D3E?style=flat-square&logo=grafana&logoColor=F78C6C)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-292D3E?style=flat-square&logo=elasticsearch&logoColor=89DDFF)
 
 #### Frameworks & Tools
 ![Git](https://img.shields.io/badge/Git-292D3E?style=flat-square&logo=git&logoColor=FF5370)
-![Django](https://img.shields.io/badge/Django-292D3E?style=flat-square&logo=django&logoColor=C3E88D)
 ![MySQL](https://img.shields.io/badge/MySQL-292D3E?style=flat-square&logo=mysql&logoColor=82AAFF)
-![Selenium](https://img.shields.io/badge/Selenium-292D3E?style=flat-square&logo=selenium&logoColor=C3E88D)
 
 </div>
 
@@ -111,7 +107,7 @@ const yasin = {
 <div align="center">
 
 ```
-"We are all living in the illusion of the delusion."
+"A computer can never be held accountable, therefore a computer must never make a management decision."
 ```
 
 <br/>
