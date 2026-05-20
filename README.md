@@ -1,188 +1,121 @@
 <div align="center">
 
-# 👋 Hi, I'm Mohammed Yasin
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:292D3E,50:7C4DFF,100:80CBC4&height=220&section=header&text=Mohammed%20Yasin&fontSize=42&fontColor=EEFFFF&fontAlignY=35&desc=Cyber%20Security%20Researcher%20%7C%20Cloud-Native%20Security&descSize=18&descColor=C792EA&descAlignY=55&animation=fadeIn" width="100%"/>
 
-### 🛡️ Cyber Security Researcher | Cloud-Native Security Enthusiast
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=80CBC4&center=true&vCenter=true&random=false&width=550&lines=Runtime+Security+%E2%9A%A1+eBPF;Cloud-Native+Defense+Systems;Open+Source+Security+Tools;Container+%26+Kubernetes+Security" alt="Typing SVG" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Securing+Cloud-Native+Applications;eBPF+%7C+Container+Security;Runtime+Protection+Specialist;Open+Source+Contributor" alt="Typing SVG" />
+<br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=yasindce1998&label=Profile%20Views&color=6366f1&style=for-the-badge)](https://github.com/yasindce1998)
-[![GitHub followers](https://img.shields.io/github/followers/yasindce1998?label=Followers&style=for-the-badge&color=8b5cf6)](https://github.com/yasindce1998?tab=followers)
-[![GitHub Stars](https://img.shields.io/github/stars/yasindce1998?label=Stars&style=for-the-badge&color=ec4899)](https://github.com/yasindce1998?tab=repositories)
+[![Profile Views](https://komarev.com/ghpvc/?username=yasindce1998&label=Visitors&color=7C4DFF&style=flat-square)](https://github.com/yasindce1998)&nbsp;
+[![GitHub followers](https://img.shields.io/github/followers/yasindce1998?label=Followers&style=flat-square&color=80CBC4&labelColor=292D3E)](https://github.com/yasindce1998?tab=followers)&nbsp;
+[![GitHub Stars](https://img.shields.io/github/stars/yasindce1998?label=Stars&style=flat-square&color=FFCB6B&labelColor=292D3E)](https://github.com/yasindce1998?tab=repositories)
 
 </div>
 
----
+<br/>
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+## `> whoami`
 
-### 🚀 About Me
-
-```yaml
-name: Mohammed Yasin
-role: Cyber Security Researcher
-location: India 🇮🇳
-focus:
-  - Cloud-Native Security
-  - Runtime Protection
-  - eBPF Technology
-  - Container Security
-currently_working_on: KubeArmor
-learning: [Go, Rust, eBPF, DevSecOps]
-collaboration: Open to security projects
-motto: "Building secure cloud-native solutions, one line of code at a time"
+```js
+const yasin = {
+    role: "Cyber Security Researcher",
+    location: "India",
+    focus: ["Cloud-Native Security", "Runtime Protection", "eBPF", "Container Security"],
+    currently: "Contributing to KubeArmor & Cilium",
+    learning: ["Go", "Rust", "eBPF", "DevSecOps"],
+    motto: "Building secure cloud-native solutions, one syscall at a time"
+};
 ```
 
-<br clear="right"/>
+<br/>
 
----
+## Active Projects
 
-### 🔭 Current Focus
+| Project | Description | Area |
+|:--------|:------------|:-----|
+| [**KubeArmor**](https://github.com/kubearmor/KubeArmor) | Runtime security enforcement for Kubernetes | `runtime-security` |
+| [**Cilium**](https://github.com/cilium/cilium) | eBPF-based networking, observability & security | `ebpf` `networking` |
+| **eBPF Research** | Low-level kernel security instrumentation | `kernel` `research` |
 
-<table>
-<tr>
-<td width="50%">
+<br/>
 
-#### 🛡️ Active Projects
-- 🔥 **[KubeArmor](https://github.com/kubearmor/KubeArmor)** - Runtime Security Enforcement
-- 🌐 **[Cilium](https://github.com/cilium/cilium)** - eBPF-based Networking
-- 🔧 **eBPF Research** - Low-level kernel programming
-
-</td>
-<td width="50%">
-
-#### 📚 Learning Path
-- 🐹 **Go** - Cloud-native development
-- 🦀 **Rust** - Systems programming
-- 🔐 **DevSecOps** - Security automation
-- 🐍 **Python** - Security tooling
-
-</td>
-</tr>
-</table>
-
----
-
-### 💻 Tech Stack
+## Tech Stack
 
 <div align="center">
 
 #### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-CE422B?style=for-the-badge&logo=rust&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-292D3E?style=flat-square&logo=python&logoColor=FFCB6B)
+![Go](https://img.shields.io/badge/Go-292D3E?style=flat-square&logo=go&logoColor=80CBC4)
+![Rust](https://img.shields.io/badge/Rust-292D3E?style=flat-square&logo=rust&logoColor=F78C6C)
+![C](https://img.shields.io/badge/C-292D3E?style=flat-square&logo=c&logoColor=89DDFF)
+![Java](https://img.shields.io/badge/Java-292D3E?style=flat-square&logo=openjdk&logoColor=FF5370)
+![Bash](https://img.shields.io/badge/Bash-292D3E?style=flat-square&logo=gnu-bash&logoColor=C3E88D)
 
-#### Cloud & DevOps
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+#### Cloud & Infrastructure
+![Kubernetes](https://img.shields.io/badge/Kubernetes-292D3E?style=flat-square&logo=kubernetes&logoColor=89DDFF)
+![Docker](https://img.shields.io/badge/Docker-292D3E?style=flat-square&logo=docker&logoColor=82AAFF)
+![GCP](https://img.shields.io/badge/Google_Cloud-292D3E?style=flat-square&logo=google-cloud&logoColor=FFCB6B)
+![Linux](https://img.shields.io/badge/Linux-292D3E?style=flat-square&logo=linux&logoColor=EEFFFF)
+![Nginx](https://img.shields.io/badge/Nginx-292D3E?style=flat-square&logo=nginx&logoColor=C3E88D)
 
-#### Security & Monitoring
-![eBPF](https://img.shields.io/badge/eBPF-FF6600?style=for-the-badge&logo=ebpf&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+#### Security & Observability
+![eBPF](https://img.shields.io/badge/eBPF-292D3E?style=flat-square&logo=ebpf&logoColor=F78C6C)
+![Grafana](https://img.shields.io/badge/Grafana-292D3E?style=flat-square&logo=grafana&logoColor=F78C6C)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-292D3E?style=flat-square&logo=elasticsearch&logoColor=89DDFF)
 
-#### Tools & Frameworks
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-
-</div>
-
----
-
-### 📊 GitHub Statistics
-
-<div align="center">
-  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yasindce1998&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=8b5cf6&text_color=c9d1d9"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasindce1998&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9"/>
+#### Frameworks & Tools
+![Git](https://img.shields.io/badge/Git-292D3E?style=flat-square&logo=git&logoColor=FF5370)
+![Django](https://img.shields.io/badge/Django-292D3E?style=flat-square&logo=django&logoColor=C3E88D)
+![MySQL](https://img.shields.io/badge/MySQL-292D3E?style=flat-square&logo=mysql&logoColor=82AAFF)
+![Selenium](https://img.shields.io/badge/Selenium-292D3E?style=flat-square&logo=selenium&logoColor=C3E88D)
 
 </div>
 
-<div align="center">
-  
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yasindce1998&theme=tokyonight&hide_border=true&background=0d1117&ring=6366f1&fire=ec4899&currStreakLabel=8b5cf6" alt="GitHub Streak"/>
+<br/>
 
-</div>
-
-<div align="center">
-  
-<img src="https://github-profile-trophy.vercel.app/?username=yasindce1998&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
-
-</div>
-
----
-
-### 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yasindce1998&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=6366f1&line=8b5cf6&point=ec4899" alt="Contribution Graph"/>
-</div>
-
----
-
-### 🌐 Connect With Me
+## GitHub Stats
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yasindce1998.github.io/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yasindce1998@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammed-yasin-4660b9206)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yasindce1998)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/yasindce1998)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/yasindce1998)
-[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/yasindce1998)
-[![CodePen](https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/yasindce1998)
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=yasindce1998&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true&hide_border=true&border_radius=8&bg_color=292D3E&title_color=C792EA&icon_color=80CBC4&text_color=EEFFFF&ring_color=7C4DFF"/>
+&nbsp;&nbsp;
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasindce1998&layout=compact&theme=material-palenight&hide_border=true&border_radius=8&bg_color=292D3E&title_color=C792EA&text_color=EEFFFF"/>
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yasindce1998&theme=material-palenight&hide_border=true&border_radius=8&background=292D3E&ring=7C4DFF&fire=FF5370&currStreakLabel=80CBC4&sideLabels=C792EA&dates=676E95" alt="GitHub Streak"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yasindce1998&theme=material-palenight&hide_border=true&bg_color=292D3E&color=C792EA&line=80CBC4&point=FFCB6B&area=true&area_color=7C4DFF" alt="Contribution Graph"/>
 
 </div>
 
----
+<br/>
 
-### 💡 Random Dev Quote
+## Connect
 
 <div align="center">
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+[![Portfolio](https://img.shields.io/badge/Portfolio-292D3E?style=flat-square&logo=google-chrome&logoColor=80CBC4)](https://yasindce1998.github.io/)&nbsp;
+[![Email](https://img.shields.io/badge/Email-292D3E?style=flat-square&logo=gmail&logoColor=FF5370)](mailto:yasindce1998@gmail.com)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-292D3E?style=flat-square&logo=linkedin&logoColor=82AAFF)](https://linkedin.com/in/mohammed-yasin-4660b9206)&nbsp;
+[![Twitter](https://img.shields.io/badge/Twitter-292D3E?style=flat-square&logo=x&logoColor=EEFFFF)](https://twitter.com/yasindce1998)&nbsp;
+[![LeetCode](https://img.shields.io/badge/LeetCode-292D3E?style=flat-square&logo=leetcode&logoColor=FFCB6B)](https://leetcode.com/yasindce1998)&nbsp;
+[![Kaggle](https://img.shields.io/badge/Kaggle-292D3E?style=flat-square&logo=kaggle&logoColor=89DDFF)](https://kaggle.com/yasindce1998)
 
 </div>
 
----
-
-### 🎯 Fun Fact
+<br/>
 
 <div align="center">
 
 ```
-⚡ "We are all living in the illusion of the delusion."
+"We are all living in the illusion of the delusion."
 ```
 
-</div>
+<br/>
 
----
-
-<div align="center">
-
-### 🤝 Open for Collaboration
-
-I'm always interested in working on innovative security projects, especially those involving:
-- 🔐 Cloud-native security solutions
-- 🛡️ Runtime protection mechanisms
-- 🔧 eBPF-based security tools
-- 🌐 Container and Kubernetes security
-
-**Feel free to reach out if you want to collaborate!**
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontColor=fff&animation=twinkling" width="100%"/>
-
-**⭐ Star my repositories if you find them interesting!**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:292D3E,50:7C4DFF,100:80CBC4&height=100&section=footer" width="100%"/>
 
 </div>
