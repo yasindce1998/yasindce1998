@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:292D3E,50:7C4DFF,100:80CBC4&height=220&section=header&text=Mohammed%20Yasin&fontSize=42&fontColor=EEFFFF&fontAlignY=35&desc=Security%20Researcher%20%7C%20eBPF%20%7C%20Kernel%20%7C%20Cloud-Native&descSize=18&descColor=C792EA&descAlignY=55&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:292D3E,50:7C4DFF,100:80CBC4&height=220&section=header&text=Mohammed%20Yasin&fontSize=42&fontColor=EEFFFF&fontAlignY=35&desc=Senior%20Software%20Developer%20%7C%20Go%20%7C%20Rust%20%7C%20Cloud-Native%20%7C%20CyberSec&descSize=18&descColor=C792EA&descAlignY=55&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=80CBC4&center=true&vCenter=true&random=false&width=600&lines=eBPF+Runtime+Security+%E2%9A%A1;Kernel+Rootkit+Research;AI+Agent+Sandboxing+%26+Defense;Cloud-Native+%26+Container+Security" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=80CBC4&center=true&vCenter=true&random=false&width=600&lines=Senior+Software+Developer+%E2%9A%A1;Go+%7C+Rust+%7C+Cloud-Native+%7C+Blockchain;eBPF+Runtime+Security+%26+Kernel+Research;Building+Secure+Distributed+Systems" alt="Typing SVG" />
 
 <br/>
 
@@ -16,15 +16,16 @@
 
 ## `> whoami`
 
-Security researcher focused on kernel-level offense and defense. I build eBPF-based rootkits to understand attacker tradecraft, then flip the techniques into detection and containment tools for cloud-native environments.
+Senior software developer building high-performance back-end systems in Go and Rust. I specialize in cloud-native infrastructure, blockchain protocols, and cybersecurity — from kernel-level eBPF rootkit research to runtime defense tools for distributed systems.
 
 ```js
 const yasin = {
-    role: "Security Researcher",
+    role: "Senior Software Developer",
     location: "India",
-    focus: ["eBPF", "Kernel Security", "Rootkits", "Runtime Defense", "AI Agent Sandboxing"],
-    languages: ["Go", "Rust", "C", "Python"],
-    currently: "Building kernel-level containment for AI agents",
+    stack: ["Go", "Rust", "C", "Python"],
+    domains: ["Back-end Systems", "Cloud-Native", "Blockchain", "Cyber Security"],
+    focus: ["eBPF", "Runtime Security", "Distributed Systems", "Kernel Engineering"],
+    currently: "Building secure cloud-native infrastructure & AI agent sandboxing",
     contributions: ["KubeArmor", "Cilium", "Tracee"],
     motto: "One syscall at a time"
 };
