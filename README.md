@@ -26,7 +26,7 @@ const yasin = {
     domains: ["Back-end Systems", "Cloud-Native", "Blockchain", "Cyber Security"],
     focus: ["eBPF", "Runtime Security", "Distributed Systems", "Kernel Engineering"],
     currently: "Building secure cloud-native infrastructure & AI agent sandboxing",
-    contributions: ["KubeArmor", "Cilium", "Tracee"],
+    contributions: ["Kubernetes", "Tracee", "Cilium", "KubeArmor"],
     motto: "One syscall at a time"
 };
 ```
